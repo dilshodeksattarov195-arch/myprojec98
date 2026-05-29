@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentsetch",
+        "uuid": 889742,
+        "checksum": "l90d4n"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
